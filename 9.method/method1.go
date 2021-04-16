@@ -34,7 +34,7 @@ func (s *Student) getMaxGrade() int {
 	return curMax
 }
 
-func main() {
+func main1() {
 	s1 := Student{"Azizxon", []int{70, 80, 49, 55}, 19}
 	s2 := Student{"Jamshid", []int{85, 65, 78, 99}, 21}
 
