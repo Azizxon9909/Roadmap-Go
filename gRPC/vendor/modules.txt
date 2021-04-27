@@ -8,3 +8,5 @@
 ## explicit
 # google.golang.org/grpc v1.37.0
 ## explicit
+# google.golang.org/protobuf v1.26.0
+## explicit
