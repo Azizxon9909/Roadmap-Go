@@ -1,0 +1,10 @@
+# github.com/golang/protobuf v1.5.2
+## explicit
+# golang.org/x/net v0.0.0-20210423184538-5f58ad60dda6
+## explicit
+# golang.org/x/sys v0.0.0-20210426230700-d19ff857e887
+## explicit
+# google.golang.org/genproto v0.0.0-20210426193834-eac7f76ac494
+## explicit
+# google.golang.org/grpc v1.37.0
+## explicit
